@@ -1,3 +1,11 @@
+## Nama: Ryo Hilmi Ridho
+
+## NRP: 5025201192
+
+## Kelas: Probstat F
+
+---
+
 # Soal 1
 
 Seorang penyurvei secara acak memilih orang-orang di jalan sampai dia
